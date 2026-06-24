@@ -62,6 +62,6 @@ Tengo mucha facilidad para adoptar nuevas herramientas; de hecho, enfrentar nuev
 </a>
 
 ## Estadísticas
-| ![Steven Groos github stats](https://github-readme-stats.vercel.app/api?username=stevengroos&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=stevengroos&theme=tokyonight) |
+| ![Steven Groos github stats](https://github-readme-stats.vercel.app/api?username=stevengroos&show_icons=true&theme=tokyonight) | ![Steven GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=stevengroos&theme=tokyonight) |
 | --- | --- |
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevengroos&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=stevengroos&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
